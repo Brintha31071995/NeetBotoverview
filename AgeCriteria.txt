@@ -1,0 +1,3 @@
+Minimum age: Candidates must have completed 17 years as of December 31 of the year of his/her admission.   
+
+Maximum age limit: There is no upper age limit for the exam.

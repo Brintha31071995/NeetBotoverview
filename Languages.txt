@@ -1,0 +1,13 @@
+Languages:
+
+Assamese
+Bengali
+English
+Gujarati
+Hindi
+Kannada
+Marathi
+Oriya
+Tamil
+Telugu
+Urdu
